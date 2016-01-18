@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://2015.texaslinuxfest.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://2015.texaslinuxfest.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>Texas Linux Fest 2015</title>
- <link>https://2015.texaslinuxfest.org</link>
+ <link>http://2015.texaslinuxfest.org</link>
  <description></description>
  <language>en</language>
 <item>
  <title>Texas Linux Fest Schedule Posted</title>
- <link>https://2015.texaslinuxfest.org/content/texas-linux-fest-schedule-posted</link>
+ <link>http://2015.texaslinuxfest.org/content/texas-linux-fest-schedule-posted</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A full schedule of two days of Linux and FOSS await attendees of Texas Linux Fest, held on Aug. 21-22 in San Marcos, Texas. Texas Linux Fest, the first state-wide annual, community-run conference for Linux and Open Source software and hardware users and enthusiasts from around the Lone Star State, is a weekend event geared towards individual users.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;The schedule can be found &lt;a href=&quot;https://2015.texaslinuxfest.org/schedule&quot;&gt;here&lt;/a&gt;  or by clicking on &quot;Event Schedule&quot; above.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;p&gt;The schedule can be found &lt;a href=&quot;http://2015.texaslinuxfest.org/schedule&quot;&gt;here&lt;/a&gt;  or by clicking on &quot;Event Schedule&quot; above.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
 See you in San Marcos!&lt;/p&gt;
 &lt;p&gt;&lt;meta name=&quot;google-site-verification&quot; content=&quot;--754YYkMBnD4f4Vo_ThOX8kUX1EWwELYih99m2e9IA&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/schedule&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;schedule&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 29 Jul 2015 21:10:44 +0000</pubDate>
  <dc:creator>larry</dc:creator>
- <guid isPermaLink="false">80 at https://2015.texaslinuxfest.org</guid>
- <comments>https://2015.texaslinuxfest.org/content/texas-linux-fest-schedule-posted#comments</comments>
+ <guid isPermaLink="false">80 at http://2015.texaslinuxfest.org</guid>
+ <comments>http://2015.texaslinuxfest.org/content/texas-linux-fest-schedule-posted#comments</comments>
 </item>
 <item>
  <title>Apache&#039;s Joan Touzet to give keynote</title>
- <link>https://2015.texaslinuxfest.org/content/apaches-joan-touzet-give-keynote</link>
+ <link>http://2015.texaslinuxfest.org/content/apaches-joan-touzet-give-keynote</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Joan Touzet of the Apache Software Foundation has been chosen as the keynote speaker for this year&#039;s Texas Linux Fest.&lt;/p&gt;
 &lt;p&gt;Joan will speak on the topic &quot;Evolve or Perish! Improving OSS Communities The Apache Way.&quot; &lt;/p&gt;
 &lt;p&gt;From the summary, we get a good idea of what to expect: &quot;Change is an inevitable part of growing an open source community. In this talk, learn how one OSS community (Apache CouchDB) reinvigorated itself from a series of seemingly insurmountable challenges. With lessons learned from video gaming, theatre and music, CouchDB rediscovered The Apache Way and turned a toxic environment into a positive, supporting place for positive change.&quot;&lt;/p&gt;
-&lt;p&gt;Texas Linux Fest runs from Aug. 21-23 in San Marcos, Texas. For more information, visit &lt;a href=&quot;https://2015.texaslinuxfest.org&quot;&gt;https://2015.texaslinuxfest.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Texas Linux Fest runs from Aug. 21-23 in San Marcos, Texas. For more information, visit &lt;a href=&quot;http://2015.texaslinuxfest.org&quot;&gt;http://2015.texaslinuxfest.org&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/keynote&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;keynote&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 26 Jun 2015 02:13:46 +0000</pubDate>
  <dc:creator>larry</dc:creator>
- <guid isPermaLink="false">28 at https://2015.texaslinuxfest.org</guid>
- <comments>https://2015.texaslinuxfest.org/content/apaches-joan-touzet-give-keynote#comments</comments>
+ <guid isPermaLink="false">28 at http://2015.texaslinuxfest.org</guid>
+ <comments>http://2015.texaslinuxfest.org/content/apaches-joan-touzet-give-keynote#comments</comments>
 </item>
 <item>
  <title>Texas Linux Fest 2015!</title>
- <link>https://2015.texaslinuxfest.org/announcement</link>
+ <link>http://2015.texaslinuxfest.org/announcement</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;We are happy to announce that Texas Linux Fest 2015 has been scheduled. We are going to be at the San Marcos Convention Center August 21st and 22nd!&lt;/p&gt;
 &lt;p&gt;This year we are planning to do two full days of expo floor! We are already accepting &lt;a href=&quot;https://register.texaslinuxfest.org/&quot;&gt;registration&lt;/a&gt; for this year&#039;s event!&lt;/p&gt;
 &lt;p&gt;We are also starting the call for papers immediately to get as many exciting talks as we can! If you would like to submit a talk, please &lt;a href=&quot;http://2015.texaslinuxfest.org/content/call-papers&quot;&gt;check here&lt;/a&gt; for more info.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;announcement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 20 Mar 2015 18:12:31 +0000</pubDate>
  <dc:creator>codylee</dc:creator>
- <guid isPermaLink="false">1 at https://2015.texaslinuxfest.org</guid>
- <comments>https://2015.texaslinuxfest.org/announcement#comments</comments>
+ <guid isPermaLink="false">1 at http://2015.texaslinuxfest.org</guid>
+ <comments>http://2015.texaslinuxfest.org/announcement#comments</comments>
 </item>
 </channel>
 </rss>
