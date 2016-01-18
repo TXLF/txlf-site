@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2014.texaslinuxfest.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Texas Linux Festival 2014</title>
+ <link>http://2014.texaslinuxfest.org</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>TXLF is looking for Mobile Developers!</title>
+ <link>http://2014.texaslinuxfest.org/content/txlf-looking-mobile-developers</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;That&#039;s right! We are looking to make our conference app even better! But we need your help! We are looking for Android and IOS developers to work on our very small team! This is a volunteer position, we can only pay you in respect, gratitude and enthusiastic support, plus a nice resume addition!&lt;/p&gt;
+&lt;p&gt;If you are interested in helping make 2015 a huge success please use our contact form to get in touch!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/volunteer&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;volunteer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 28 Jul 2014 00:57:58 +0000</pubDate>
+ <dc:creator>rummykhan</dc:creator>
+ <guid isPermaLink="false">5514 at http://2014.texaslinuxfest.org</guid>
+ <comments>http://2014.texaslinuxfest.org/content/txlf-looking-mobile-developers#comments</comments>
+</item>
+<item>
+ <title>Meet the speakers: Nathan Toups, Rikki Endsley, Scott Sumner</title>
+ <link>http://2014.texaslinuxfest.org/content/meet-speakers-nathan-toups-rikki-endsley-scott-sumner</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;[As TXLF 2014 draws near, we&#039;re running a series of short interviews with our speakers, so you can get to know them—and what they&#039;ll be talking about—that much better....]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This edition features our chat with Nathan Toups, Rikki Endsley, and Scott Sumner.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Nathan Toups&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My name is Nathan Toups. I own rojoroboto, llc, which is a boutique IT consultancy here in Austin, TX. I specialize in IT infrastructure for small business, and I focus on cloud based and mobile technology solutions. My background is in OS X and Linux Systems Administration and I continue to work regularly in both environments, though these days I spend most of my time on AWS.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My talk focuses on understanding that &quot;next step&quot; in wrapping your head around command line tools. I&#039;m diving into how to build more complex &quot;one liners&quot; by manipulating stdin, stdout, and stderr. The real goal here is to help people understand why and how you create the output your are looking for by chaining commands together. I&#039;ll be going over the syntax that is used, as well as real-world examples of how to string together tried-and-true command line tools so that the audience can really have the command line work for them. It will be one part &quot;unix philosophy&quot;, one part &quot;command line cookbook&quot;, and one part &quot;pipes, chains, and redirection&quot; in action.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Have you been to TXLF in the past? If so, what are you looking forward to? If you haven&#039;t, what are your impressions of the event?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Yes! I love TXLF. I love that TXLF has such a strong community aspect to it. I love the mix of booths and sessions and great hallway conversations that will emerge.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Nathan&#039;s talk, &lt;a href=&quot;http://2014.texaslinuxfest.org/content/pipes-chains-and-redirection-introduction&quot;&gt; Pipes, Chains, and Redirection: an introduction &lt;/a&gt;, at 1:30pm on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Rikki Endsley&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My first editing job was with Sys Admin magazine back in the late &#039;90s. I&#039;m fortunate to have landed that job because I got to work with experienced tech editors and writers in a particularly exciting area of technology: Linux. After Sys Admin, I worked at Linux New Media USA and wore a variety of hats — including editor, writer, and associate publisher — on their Linux and open source technology-focused magazines. In late 2011, I became a freelance writer, editor, and community manager. Recently I joined Red Hat&#039;s Open Source and Standards team as the community evangelist, which means I get to work with a variety of upstream communities. I&#039;m not technically &quot;in publishing&quot; anymore, but I still get to cover open source and Linux technologies and work with many of the same people I&#039;ve known since I started my career. &lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My daughter was a toddler when I started working on Linux publications, and my talk is inspired by her experience in a high school programming class. I&#039;ve spent a huge amount of time over the years thinking about how to improve tech education and increase diversity in open source communities, and I applied many of what I thought were &quot;best practices&quot; when raising my kid. And she still had a horrible experience in her first programming class. I decided to share our story because the things we tell parents to do, such as give kids access to technology, encouragement, mentors, and so on, isn&#039;t enough. Based on her experience, I wrote an article with a few simple, free suggestions for improving high school tech education. I&#039;ll also share my suggestions with attendees, and then tell them about the experience my daughter had after reporting harassment in her programming class, and how it mirrors what happens when women in tech talk about their experiences.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Have you been to TXLF in the past? If so, what are you looking forward to? If you haven&#039;t, what are your impressions of the event?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Last year was my first TXLF. This year I won&#039;t be working at a booth, so I&#039;m looking forward to attending the talks. The lineup is pretty impressive, especially considering how inexpensive it is to attend the event.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; Is there anything else would you like to tell someone about your talk or about the event in general?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;If you can&#039;t make my talk but want to know more about what I&#039;ll be covering, check out the article I wrote ( &lt;a href=&quot;http://rikkiendsley.com/?p=256&quot;&gt;http://rikkiendsley.com/?p=256&lt;/a&gt; ) or look for the slides online after the event.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Rikki&#039;s talk, &lt;a href=&quot;http://2014.texaslinuxfest.org/content/what-communities-can-learn-buffy-vampire-slayer&quot;&gt; What Communities Can Learn from Buffy the Vampire Slayer &lt;/a&gt;, at 11:25am on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Scott Sumner&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt; I&#039;m Scott Sumner, the Producer / Educator at the Mayborn Science Theater (planetarium) at Central Texas College.  My primary job is creating content for the planetarium as well as interactive exhibits and display items.  I also write web applications and custom software for our internal events as needed.  That&#039;s where most of my content for Linuxfest is coming from.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I&#039;ll be showing a couple widely varied applications for Raspberry Pi computers.  During staff meetings and planning sessions the question often came up &quot;wouldn&#039;t it be nice if we had a computer to...&quot; and now with the Pi, we do!  We use them to track disk usage, show us system status, and run game shows (to name a few).&lt;/p&gt;
+&lt;p&gt;Attendees will have an idea of what various Python libraries are capable of and how to translate those data points into meaningful graphical displays.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Have you been to TXLF in the past? If so, what are you looking forward to? If you haven&#039;t, what are your impressions of the event?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I&#039;ve attended TXLF for the past 2 years but this is my first time speaking.  I&#039;m looking forward to that the most I think&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; Is there anything else would you like to tell someone about your talk or about the event in general?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Please note that we don&#039;t use Raspberry Pi boards to create imagery on the planetarium itself (yet...)  I don&#039;t want anyone to be confused about that.  These are all auxiliary displays or secondary projects.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Scott&#039;s talk, &lt;a href=&quot;http://2014.texaslinuxfest.org/content/planetarium-pis&quot;&gt; Planetarium Pi&#039;s &lt;/a&gt;, at 2:40pm on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 13 Jun 2014 22:08:10 +0000</pubDate>
+ <dc:creator>nwillis</dc:creator>
+ <guid isPermaLink="false">1789 at http://2014.texaslinuxfest.org</guid>
+ <comments>http://2014.texaslinuxfest.org/content/meet-speakers-nathan-toups-rikki-endsley-scott-sumner#comments</comments>
+</item>
+<item>
+ <title>Meet the speakers: Joseph Guarino, Summer Mousa, Mark Greene</title>
+ <link>http://2014.texaslinuxfest.org/content/meet-speakers-joseph-guarino-summer-mousa-mark-greene</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;[As TXLF 2014 draws near, we&#039;re running a series of short interviews with our speakers, so you can get to know them—and what they&#039;ll be talking about—that much better....]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This edition features our chat with Joseph Guarino, Summer Mousa, and Mark Greene.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Joseph Guarino&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt; I&#039;m Senior consultant/Owner at Evolutionary IT which provides Business and Information Technology solutions to New England and beyond. My love of FOSS started back at Umass Amherst where I began tinkering on Debian and FreeBSD. Freedom has always been important to me and to see it reflected in technology, it was a no brainer -- FOSS was where I wanted to be. The more I got into open source, the more I found quality, stablity and openness to be second to none.  Open source is something I enjoy and utilize on a daily basis in my life and with my firm. In my free time you&#039;ll find me writing/teaching/speaking on numerous IT/business topics. Outside of tech, I enjoy supporting non-profit causes by doing 5K&#039;s and obstacle course races. As a drummer, I enjoy listening to nearly every genre of music from Metal to Classic Rock, Funk to Reggae and everything in between. Oh, and I also enjoy brewing and imbibing quality craft beer.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;You can expect to understand how you can use both online marketing and social media to make your open source project even more successful. Most open source projects (and even companies) ignore this powerful option to build community, gain contributors, get sponsorship and ensure project success.  You don&#039;t have to.   &lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Have you been to TXLF in the past? If so, what are you looking forward to? If you haven&#039;t, what are your impressions of the event?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Nope, it is my first and I&#039;m excited to attend and meet others as passionate about open source. &lt;/p&gt;
+&lt;p&gt;&lt;code&gt; Is there anything else would you like to tell someone about your talk or about the event in general?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My overarching goal is to get people excited and mobilized to spread the message of this amazing software.  We rock, we just need to start communicating it more frequently!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Joseph&#039;s talk, &lt;a href=&quot;http://2014.texaslinuxfest.org/content/seo-social-media-marketing-open-source-professionals-evangelists&quot;&gt; SEO &amp;amp; Social Media Marketing for Open Source Professionals &amp;amp; Evangelists &lt;/a&gt;, at 10:15am on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Summer Mousa&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My name is Summer Mousa.  I am software developer at Zenoss and a core contributor to the Control Center (the subject of my talk).  I graduated from Purdue in 2008 with a bachelors in computer engineering and I am still pretty new to the Linux scene.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My talk is about how the Control Center (with Docker) is the solution to horizontal scalability in modern software.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Have you been to TXLF in the past? If so, what are you looking forward to? If you haven&#039;t, what are your impressions of the event?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I went to TXLF in 2012, in San Antonio.  I am really looking forward to seeing how things work from the speaker&#039;s perspective.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Summer&#039;s talk, &lt;a href=&quot;http://2014.texaslinuxfest.org/content/how-zenoss-modernized-its-software-delivery-using-docker&quot;&gt; How Zenoss Modernized its Software Delivery using Docker &lt;/a&gt;, at 3:50pm on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Mark Greene&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I live and work in Austin ,TX. This is my 2nd TXLF. I co-presented at the first TXLF on the wonders and pitfalls of UNICODE. It was very satisfying when the presentation ended with the same size audience as it began with! I work for Hewlett-Packard in our Global Supply Chain Systems as a software developer and solution architect. The majority of my career has been spent developing enterprise java applications for manufacturing and procurement operations world wide. My work has taken me to Brazil, China, Japan, Singapore, Germany, &amp;amp; the Czech Republic.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;You can expect my presentation to peak your interest in personal cyber security, provide you knowledge of FOSS tools for your cyber security toolbox, and show you a path to explore more on your own.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Have you been to TXLF in the past? If so, what are you looking forward to? If you haven&#039;t, what are your impressions of the event?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Yes! I co-presented at the original TXLF in 2010.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Mark&#039;s talk, &lt;a href=&quot;http://2014.texaslinuxfest.org/content/introduction-encryptionprivacy-tools-foss-world-working-title&quot;&gt;Introduction to Encryption/Privacy Tools in the FOSS World&lt;/a&gt;, at 5:00pm on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 13 Jun 2014 17:22:55 +0000</pubDate>
+ <dc:creator>nwillis</dc:creator>
+ <guid isPermaLink="false">1788 at http://2014.texaslinuxfest.org</guid>
+ <comments>http://2014.texaslinuxfest.org/content/meet-speakers-joseph-guarino-summer-mousa-mark-greene#comments</comments>
+</item>
+<item>
+ <title>Meet the speakers: Rob Landley, Robinson Tryon, Everett Toews</title>
+ <link>http://2014.texaslinuxfest.org/content/meet-speakers-rob-landley-robinson-tryon-everett-toews</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;[As TXLF 2014 draws near, we&#039;re running a series of short interviews with our speakers, so you can get to know them—and what they&#039;ll be talking about—that much better....]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This edition features our chat with Rob Landley, Robinson Tryon, and Everett Toews.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Rob Landley&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My twitter bio says &quot;Rob does Aboriginal Linux and Toybox, co-founded Penguicon, wrote for Motley Fool, taught night courses at ACC, makes chan mail... the usual.&quot;&lt;/p&gt;
+&lt;p&gt;It doesn&#039;t mention I used to maintain BusyBox (I put out the 1.01 through 1.2.2 releases), or that I launched the first GPL enforcement lawsuits to clean up the &quot;Hall of Shame&quot; page I inherited from the previous maintainer (Erik Andersen). My talk is related to that part.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;If you&#039;re wondering &quot;why me&quot;, in addition to starting the first GPL enforcement suits (busybox vs monsoon and such) around 2006, wrote a week of articles on IP law for The Motley Fool back in 2000, co-authored the OSI position paper on  the SCO lawsuit in 2003. In 2001 I drove up to Boston to inteview Richard Stallman for a computer history project. I was on a panel about license enforcement with Eben Moglen (co-author of the GPL) in 2008, and hung out with him for the rest of the day in NYC, seeing the SFLC offices and so on, there was some sort of party that evening...&lt;/p&gt;
+&lt;p&gt;My &quot;rise and fall of copyleft&quot; comes from having been an enormous fan. Not &quot;the GPL was never any good&quot;, but &quot;I miss it terribly, here&#039;s why I was _forced_, kicking and screaming, to leave it behind&quot;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Rob&#039;s talk, &lt;a href=&quot;http://2014.texaslinuxfest.org/content/rise-and-fall-copyleft&quot;&gt; The Rise and Fall of Copyleft &lt;/a&gt;, at 1:30pm on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Robinson Tryon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My name is Robinson Tryon and I work on QA and Community Outreach for LibreOffice and The Document Foundation (the non-profit behind LibreOffice). I grew up in Oregon, went to college in New Hampshire, and now raise cows in Vermont. Okay, truth be told I don&#039;t actually  raise cows, but there are a number right down the road from me. As you might have guessed, Vermont doesn&#039;t have as long of a growing season as Texas, but we get enough sun for me to grow tomatoes, beans, and more hops than I have time to turn into beer.&lt;/p&gt;
+&lt;p&gt;After I got my degree in CS I was employed as a programmer at the Dartmouth School of Medicine writing training programs for doctors and nurses, as well as working on counter-terrorism simulations and tools to train first responders on how to deal with hazmat scenarios. I subsequently worked as a programmer, sysadmin, and consultant on Metadata Games, a flexible suite of multimedia online games designed to help libraries and archives compile contextual tag information for various media including images and video. I regularly provide technical instruction to educators and professors on a variety of topics including the GNU/Linux system, LibreOffice, Git and git-related tools, the command line, and printers. Don&#039;t ask me why, but for some reason people seem to have a lot of problems figuring out how to use printers.&lt;/p&gt;
+&lt;p&gt;Over the last few years I&#039;ve been spending more time on Free Software outreach and instruction, and less on the nitty-gritty of backend system administration and programming. It can be tough to give up that direct control, but I feel that outreach and education are some of the most important aspects of what we do as a community, and I&#039;m looking forward to talking to all of you about some neat features and tricks in LibreOffice.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I&#039;ll be talking about a number of really useful features in LibreOffice that most people have never used. Pretty much everyone in the Free Software community uses LibreOffice, but powerful features such as Hybrid PDFs or the Impress remote apps are only being used by a small fraction of that community. I&#039;d like to see everyone walk out of my talk with a couple of new ideas or tips about how they can use LibreOffice more effectively and get their work done more efficiently.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Have you been to TXLF in the past? If so, what are you looking forward to? If you haven&#039;t, what are your impressions of the event?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This will be my first time at the Texas Linux Fest, and I&#039;m eager to experience what Texas -- and Austin -- has to offer. They say that everything&#039;s bigger in Texas, and I expect that the Texas Linux Fest will be no exception! :-)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Robinson&#039;s talk, &lt;a href=&quot;http://2014.texaslinuxfest.org/content/libreoffice-tools-and-tricks-making-your-work-easier&quot;&gt; LibreOffice Tools and Tricks for Making Your Work Easier &lt;/a&gt;, at 3:50pm on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Everett Toews&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I&#039;m a Developer Advocate at Rackspace making OpenStack and the Rackspace Cloud easy to use for developers and operators. Sometimes developer, sometimes advocate, and sometimes operator. I&#039;m a committer and PMC on Apache jclouds, and co-author of the OpenStack Operations Guide from O&#039;Reilly. In the past I&#039;ve developed web applications, taught workshops at conferences including SXSW and Gluecon, and presented at conferences including OSCON and the OpenStack Summits. I love spending time with my family. If it&#039;s calm outside, we launch rockets. If it&#039;s windy, we fly kites.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;They will learn what services make up OpenStack, how they interact with each other, how they interact with a client request, and how to trace the path of such a request. This will give you a concrete foundation for understanding OpenStack and being able to grow that knowledge by tinkering with its operations.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Have you been to TXLF in the past? If so, what are you looking forward to? If you haven&#039;t, what are your impressions of the event?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I have not. It sounds like a pretty great open source community led event.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Everett&#039;s talk, &lt;a href=&quot;http://2014.texaslinuxfest.org/content/devstack-learn-openstack-running-openstack&quot;&gt; DevStack: Learn OpenStack by running OpenStack &lt;/a&gt;, at 10:15am on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 13 Jun 2014 15:08:48 +0000</pubDate>
+ <dc:creator>nwillis</dc:creator>
+ <guid isPermaLink="false">1786 at http://2014.texaslinuxfest.org</guid>
+ <comments>http://2014.texaslinuxfest.org/content/meet-speakers-rob-landley-robinson-tryon-everett-toews#comments</comments>
+</item>
+<item>
+ <title>Schedule of events</title>
+ <link>http://2014.texaslinuxfest.org/content/schedule-events</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Looking for the schedule of events this year? &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Visit: &lt;a href=&quot;http://2014.texaslinuxfest.org/content/event-schedule&quot;&gt;http://2014.texaslinuxfest.org/content/event-schedule&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Need help at the festival? &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Visit booth #40.&lt;br /&gt;
+Join IRC: #txlf on Freenode&lt;br /&gt;
+Or tweet at us @texaslinuxfest&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 13 Jun 2014 13:22:57 +0000</pubDate>
+ <dc:creator>AndyJames</dc:creator>
+ <guid isPermaLink="false">1785 at http://2014.texaslinuxfest.org</guid>
+ <comments>http://2014.texaslinuxfest.org/content/schedule-events#comments</comments>
+</item>
+<item>
+ <title>Meet the speakers: Aaron Mildenstein, Matt Ray, Christy Perez</title>
+ <link>http://2014.texaslinuxfest.org/content/meet-speakers-aaron-mildenstein-matt-ray-christy-perez</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;[As TXLF 2014 draws near, we&#039;re running a series of short interviews with our speakers, so you can get to know them—and what they&#039;ll be talking about—that much better....]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Aaron Mildenstein&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I was a Unix SysAdmin for many years, then transitioned into a Java Application Admin.  Now we’d call this role ‘DevOps,&#039; but that’s what it was then.  I became heavily involved with monitoring for performance and reliability and spearheaded the move to get that particular company to use Zabbix as a monitoring tool.  While this was going on we investigated Splunk because we wanted a centralized logging solution to help with our Ops work.  At the volumes we were going to be using the cost was prohibitive, so we tried to roll our own solution.  This proved to be exceptionally difficult, and that project was kind of on the back burner when I stumbled upon Logstash in a user-group email list.  That was June of 2011. I tested Logstash and immediately found the kind of results we wanted.  In less than a year I architected and deployed what would now be considered an ELK (Elasticsearch/Logstash/Kibana) cluster that could process 28,000 events per second.  A little more than a year after that, I was invited to apply for a job at Elasticsearch by Jordan Sissel, the creator of Logstash, who I had gotten to know online through my work.  I’ve been at Elasticsearch for almost a year now, and it’s the best job I’ve ever had.  I’m more Dev than Ops, now, but I love waking up and getting to work each day because I love what I’m doing so much.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Installing Elasticsearch, Logstash and Kibana (the ELK stack) can seem daunting at first.  With this presentation I intend to demonstrate how easy it can be to get started capturing, enriching, and visualizing your log data.  After a brief presentation, I will do a live demo, taking the installation from bare metal to functional ELK stack in less than 20 minutes—while providing live commentary.  The demo should be sufficient to show an attendee just how quickly you can start to get value from those log files that are otherwise just sitting around consuming disk space.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Have you been to TXLF in the past? If so, what are you looking forward to? If you haven&#039;t, what are your impressions of the event?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I haven’t been before.  I’d like to meet some local people and take in some of the presentations.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;How do I get more value from all of these log files lying around?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Come and see how Logstash can transform your log monitoring behavior from using tail and grep to parsing and enriching that data and being able to provide new insights and value to not just your Ops team, but even to marketing and beyond.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Aaron&#039;s talk, &lt;a href=&quot;http://texaslinuxfest.org/content/introduction-logstash&quot;&gt;Introduction to Logstash&lt;/a&gt;, at 10:15am on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Matt Ray&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Greetings! I&#039;m the Director of Partner Integration for the open source&lt;br /&gt;
+systems integration platform and company Chef. I&#039;m active in the Chef,&lt;br /&gt;
+Ruby and OpenStack open source communities and was the Community&lt;br /&gt;
+Manager for Zenoss for several years. I&#039;ve worked in a wide variety of&lt;br /&gt;
+industries and spent a lot of time at the University of Texas at&lt;br /&gt;
+Austin. I&#039;ve been a contributor in the open source community for well&lt;br /&gt;
+over a decade, was one of the founders of the Texas Linux Fest and&lt;br /&gt;
+have helped organize many other conferences. I reside in Austin, blog&lt;br /&gt;
+at LeastResistance.net and am @mattray on Twitter, IRC and GitHub.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My talk will provide a light introduction to Chef, the current state&lt;br /&gt;
+of the union and where we&#039;re headed. Attendees should come away with&lt;br /&gt;
+an appreciation of the value of configuration management and how Chef&lt;br /&gt;
+becomes the cornerstone for the infrastructure going forward.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Have you been to TXLF in the past? If so, what are you looking forward to? If you haven&#039;t, what are your impressions of the event?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I&#039;ve been to all of the TXLFs, I&#039;m always happy to see how it&#039;s really&lt;br /&gt;
+taken off. Each year there&#039;s more and more content, it&#039;s always a&lt;br /&gt;
+great event to see the landscape of what people are doing in open&lt;br /&gt;
+source.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Matt&#039;s talk, &lt;a href=&quot;http://texaslinuxfest.org/content/chef-software-defined-infrastructure-today-and-tomorrow&quot;&gt;Chef: Software Defined Infrastructure Today and Tomorrow&lt;/a&gt;, at 2:40pm on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Christy Perez&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I have a CS degree from the University of Texas. I&#039;m a software engineer at IBM,&lt;br /&gt;
+where I&#039;ve been working for nine years. For five years I did &quot;kernel&lt;br /&gt;
+level&quot; network programming on IBM i (OS/400, i5/OS, System i...). I&lt;br /&gt;
+worked primarily on IPv6,  multicast, and TCP. My IPv6 work included&lt;br /&gt;
+owning the IPv6-Ready certification and DoD IPv6-compliance processes.&lt;br /&gt;
+In 2009 I jumped ship from IBM i to IBM&#039;s Linux Technology Center, where&lt;br /&gt;
+I worked in our developer support organization. This included supporting&lt;br /&gt;
+our IBM cloud (before SoftLayer), our test teams, occasional customers,&lt;br /&gt;
+and anyone who needed help with their Linux issues.&lt;br /&gt;
+After two years there, I picked up a technical consulting role for Open&lt;br /&gt;
+Source virtualization, which led me to focus more on RHEL and base KVM&lt;br /&gt;
+technologies. Then, in 2013, I moved back to full-time development and&lt;br /&gt;
+learned Python to work on Kimchi in support of IBM&#039;s Open Power&lt;br /&gt;
+initiative.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;A greater understanding of the Kimchi project: Why it&#039;s needed, what it does, how to get started, and how to contribute.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Have you been to TXLF in the past? If so, what are you looking forward to? If you haven&#039;t, what are your impressions of the event?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Yes, I have. I&#039;m looking forward to others&#039; presentations. I always leave inspired!&lt;br /&gt;
+It&#039;s a really low-key conference, and a great chance to meet new people.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; Is there anything else would you like to tell someone about your talk or about the event in general?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Use public transportation to get there. Also, Uber just launched in Austin!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Christy&#039;s talk, &lt;a href=&quot;http://texaslinuxfest.org/content/simple-single-system-private-cloud-kimchi&quot;&gt;A Simple, Single-System Private Cloud with Kimchi &lt;/a&gt;, at 2:40pm on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 12 Jun 2014 15:36:23 +0000</pubDate>
+ <dc:creator>nwillis</dc:creator>
+ <guid isPermaLink="false">1784 at http://2014.texaslinuxfest.org</guid>
+ <comments>http://2014.texaslinuxfest.org/content/meet-speakers-aaron-mildenstein-matt-ray-christy-perez#comments</comments>
+</item>
+<item>
+ <title>Meet the speakers: Elizabeth K. Joseph, Dru Lavigne, Dmitri Pal</title>
+ <link>http://2014.texaslinuxfest.org/content/meet-speakers-elizabeth-k-joseph-dru-lavigne-dmitri-pal</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;[As TXLF 2014 draws near, we&#039;re running a series of short interviews with our speakers, so you can get to know them—and what they&#039;ll be talking about—that much better....]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Elizabeth K. Joseph&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My name is Elizabeth Krumbach Joseph and I&#039;m an Automation and Tools Engineer at HP focusing on the Infrastructure for the OpenStack Project. The team I work on is made up of sysadmins like me who makes sure the whole  infrastructure that OpenStack developers use every day, from the continuous integration system to the wiki, are maintained, scaled, and up and running when they need them.&lt;/p&gt;
+&lt;p&gt;I&#039;ve also been active in several other open source projects over the years, most notably starting with Debian and moving into work with Ubuntu, where I now hold a seat on the Ubuntu Community Council and am one of the authors of the upcoming Official Ubuntu Book, 8th edition, being published by Prentice Hall next month.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My talk, Code Review for Systems Administrators, draws from how our team handles systems administration in the OpenStack Infrastructure. Pretty much every change we make to a system in the infrastructure goes through the same code review system that OpenStack developers use to develop OpenStack. This has given us the ability to work efficiently as a team that is not only geographically distributed, but draws from multiple different companies to contribute. Everyone can collaborate through the same system and have a say in patches that go in. It also allows casual contributions from other interested parties, like one off commits from developers who want to see a new feature added to our infrastructure but for which we may not currently have time to do ourselves.&lt;/p&gt;
+&lt;p&gt;I&#039;ll also be covering the tools we use to do this, so attendees will come away with an overview of how the fully open source code review and continuous integration system for all of OpenStack works! It&#039;s really cool stuff.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Have you been to TXLF in the past? If so, what are you looking forward to? If you haven&#039;t, what are your impressions of the event?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I&#039;ve never been, but folks I&#039;ve worked with in Ubuntu always have great things to say about it so I&#039;m really looking forward to it.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; Is there anything else would you like to tell someone about your talk or about the event in general?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;If you see me and would like to meet, please say &quot;hello!&quot; I&#039;m pretty shy so I&#039;m prone to blending in to the wallpaper otherwise :) I&#039;ll also be spending some time at the HP booth in the expo hall on Friday afternoon.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Elizabeth&#039;s talk, &lt;a href=&quot;http://texaslinuxfest.org/content/code-review-systems-administrators&quot;&gt;Code Review for Systems Administrators&lt;/a&gt;, at 11:25am on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Dru Lavigne&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt; I&#039;m Dru Lavigne and I write the documentation for the PC-BSD and FreeNAS Projects. I&#039;ve been using open source since the mid-90s, with a background in networking, system administration, and Unix operating systems.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;A better appreciation of how cool and powerful ZFS really is. Some of the graphical tools are pretty slick as well. Be forewarned though, once you try ZFS, you don&#039;t go back ;-)&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Have you been to TXLF in the past? If so, what are you looking forward to? If you haven&#039;t, what are your impressions of the event?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Yes, this will be my third TXLF and I&#039;m glad to see it and Austin again. I&#039;m looking forward to talking with people in the expo area. I&#039;ll be at the BSD booth (look for the blinky horns).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Dru&#039;s talk, &lt;a href=&quot;http://texaslinuxfest.org/content/graphical-zfs-management-tools&quot;&gt;Graphical ZFS Management Tools&lt;/a&gt;, at 5:00pm on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Meet &lt;strong&gt;Dmitri Pal&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could you please introduce yourself and tell us a bit about your background?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My name is Dmitri Pal. I am Sr. Manager at Red Hat in charge of the Red Hat Identity Management portfolio of projects and products. This includes technologies like LDAP, Kerberos, PKI and projects like FreeIPA (Identity Management in Red Hat Enterprise Linux), SSSD (Client component that enables central authentication and identity lookup), 389 (Red Hat Directory Server), Dogtag (Red Hat Certificate system), Samba (identity management components) and others. My day to day job is to move these projects forward. There is a lot of exciting innovation is happening in this area making authentication experience with Linux systems smoth and rich.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;What we might expect from your talk?  What will an attendee come away with at the end of the session?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Attendees will get a better understanding about what open source identity management technologies are available nowadays, what problems they solve and gain practical knowledge on how to connect growing Linux infrastructure into Active Directory environment without relying on third party closed source tools that add extra overhead and cost.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Have you been to TXLF in the past? If so, what are you looking forward to? If you haven&#039;t, what are your impressions of the event?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt; I have not been yet. So far the impression is good.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; Is there anything else would you like to tell someone about your talk or about the event in general?&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;How do you manage identities and authentication for Linux/Unix systems? Do you use basing capabilities of the OS? Which ones?&lt;br /&gt;
+Do you need to integrate with Active Directory? How? Do you use 3rd party?&lt;br /&gt;
+How complex is the setup and how much is the management overhead?&lt;/p&gt;
+&lt;p&gt;The session will help administrators and security architects to learn modern tools and ways to solve identity management problems in their enterprise. &lt;/p&gt;
+&lt;p&gt;Come to Red Hat booth on Friday to have a deeper dive into the identity management questions and issues.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can catch Dmitri&#039;s talk, &lt;a href=&quot;http://texaslinuxfest.org/content/enterprise-identity-managment-open-source-tools&quot;&gt;Enterprise Identity Managment with Open Source Tools &lt;/a&gt;, at 2:40pm on Saturday!&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 10 Jun 2014 01:47:57 +0000</pubDate>
+ <dc:creator>nwillis</dc:creator>
+ <guid isPermaLink="false">1782 at http://2014.texaslinuxfest.org</guid>
+ <comments>http://2014.texaslinuxfest.org/content/meet-speakers-elizabeth-k-joseph-dru-lavigne-dmitri-pal#comments</comments>
+</item>
+<item>
+ <title>It&#039;s nearly here!</title>
+ <link>http://2014.texaslinuxfest.org/content/its-nearly-here</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The festival is right around the corner. &lt;/p&gt;
+&lt;p&gt;We have 6 tracks this year, with 36 total talks! We also have a ton of vendor sessions Friday! &lt;/p&gt;
+&lt;p&gt;Check out the full event schedule at &lt;a href=&quot;http://texaslinuxfest.org/content/event-schedule&quot;&gt;http://texaslinuxfest.org/content/event-schedule&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Also, make sure you get your registration in soon!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 04 Jun 2014 00:05:08 +0000</pubDate>
+ <dc:creator>AndyJames</dc:creator>
+ <guid isPermaLink="false">1779 at http://2014.texaslinuxfest.org</guid>
+ <comments>http://2014.texaslinuxfest.org/content/its-nearly-here#comments</comments>
+</item>
+<item>
+ <title>Enthusiast or Supporter, which should you choose?</title>
+ <link>http://2014.texaslinuxfest.org/content/enthusiast-or-supporter-which-should-you-choose</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;When choosing your tickets this year, we have two options. It has been asked a few times what the difference is, so we wanted to clear it up. &lt;/p&gt;
+&lt;p&gt;The conference is a non-profit festival that is completely run by volunteers. We use the ticket sales and the sponsorship money to pay for all the things that happen each year and to make sure we can have an exciting event next year. &lt;/p&gt;
+&lt;p&gt;Unlike many other conferences, we do not believe that ticket levels should grant you different amounts of access. Therefore both tickets will grant you the same access to the festival expo floor, talks, and education sessions. You can purchase either ticket and see everything! The differences comes in the form of what you feel would be best to donate to help us keep making the festival a success.&lt;/p&gt;
+&lt;p&gt;There is a swag bonus, the supporter ticket does come with the conference T-Shirt. The Enthusiast ticket does not.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://register.texaslinuxfest.org&quot;&gt;Go Register Now!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 14 Apr 2014 03:53:40 +0000</pubDate>
+ <dc:creator>AndyJames</dc:creator>
+ <guid isPermaLink="false">1740 at http://2014.texaslinuxfest.org</guid>
+ <comments>http://2014.texaslinuxfest.org/content/enthusiast-or-supporter-which-should-you-choose#comments</comments>
+</item>
+<item>
+ <title>The Call for Papers Deadline</title>
+ <link>http://2014.texaslinuxfest.org/content/call-papers-deadline</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Good $localtime Ladies and Gentlemen! &lt;/p&gt;
+&lt;p&gt;We at the TXLF headquarters hope you&#039;re having a good day!&lt;br /&gt;
+Just a little reminder that the Call for Papers ends in two days. So we invite you to take a look at your talk, read it again, and then submit it before it&#039;s too late!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/call-papers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;call for papers&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;news&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 03 Apr 2014 22:01:03 +0000</pubDate>
+ <dc:creator>CBennett</dc:creator>
+ <guid isPermaLink="false">1710 at http://2014.texaslinuxfest.org</guid>
+ <comments>http://2014.texaslinuxfest.org/content/call-papers-deadline#comments</comments>
+</item>
+</channel>
+</rss>

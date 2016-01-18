@@ -1,0 +1,158 @@
+/* This file will hold the main styles for your website. */
+
+/* Links */
+a, a:link {
+  text-decoration: none;
+}
+a, a:link, a:visited, a:active {
+  color: #489ec8;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Headers */
+body > #page h1, body > #page h2, body > #page h3,
+body > #page h4, body > #page h5, body > #page h6 {
+  border-color: #D4D4D4;
+  color: #489ec8;
+  font-weight: normal;
+  letter-spacing: 0;
+  line-height: 1em;
+}
+
+body > #page h1#page-title {
+  color: #f8992b;
+}
+
+/* Admin Menu */
+#admin-menu {
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  -khtml-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -ms-filter: none;
+  filter: none;
+}
+
+/* Drupal */
+#messages .messages {
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+/* Page */
+body {
+  background-color: #FAFAFA;
+}
+#page {
+  position: relative;
+}
+
+/* Blocks */
+.block .content {
+  color: #626262;
+}
+.block .content li {
+  margin-left: 2em;
+}
+.block .content .item-list li {
+  margin: 0;
+}
+div.page-title,
+div.block-title {
+  margin: 0 0 15px;
+  overflow: hidden;
+  position: relative;
+}
+div.page-title h1#page-title,
+div.block-title h2.block-title {
+  line-height: 1.3em;
+  margin: 0;
+  width: 3000px;
+}
+div.page-title h1#page-title div.text,
+div.block-title h2.block-title div.text {
+  float: left;
+}
+div.page-title h1#page-title div.separator,
+div.block-title h2.block-title div.separator {
+  background: url(../images/separator.png) top left repeat transparent;
+  float: left;
+  height: .8em;
+  margin-left: 10px;
+  position: relative;
+  top: 0;
+  width: 2000px;
+}
+#block-block-1 {
+  text-align: center;
+}
+#block-block-1 p {
+  margin: 0;
+  padding: 0;
+}
+#block-block-1 div.content img {
+  vertical-align: middle;
+}
+#block-block-1 div.content h2 {
+  display: inline;
+  position: relative;
+  font: 25px Helvetica, Sans-Serif;
+  letter-spacing: 0px;
+  color: rgba(255,0,0,0.5); 
+  text-transform: none;
+  padding: 3px;
+  white-space: nowrap;
+  margin-left: 500px;
+  bottom: 80px;
+}
+
+#block-block-1 div.content h2:after {
+  content: attr(title);
+  position: absolute; left: 5px; top: 1px;
+  color: rgba(0,0,255,0.5);   
+}
+/* Sidebar */
+#region-sidebar-first div.block-title,
+#region-sidebar-second div.block-title {
+  margin: 5px 0 15px;
+  overflow: hidden;
+}
+#region-sidebar-first .block:first-child div.block-title {
+  margin-top: 0;
+}
+
+.boxes-box-controls ul {
+  margin: 0;
+}
+
+/* Content */
+ul.tabs {
+  *padding-top: 1px;
+}
+
+article.node {
+  margin-bottom: 20px;
+}
+
+article.node h2.node-title {
+  margin-bottom: 0;
+}
+
+article.node footer.submitted {
+  margin-bottom: 20px;
+}
+
+/* overriding sponsors stuff */
+.content .view-sponsors h3 {
+    color: white;
+    background: #FFD891;
+    padding: 5px;
+    margin-top: 20px;
+}

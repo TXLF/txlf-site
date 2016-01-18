@@ -1,0 +1,113 @@
+
+/* ---------- Basic Layout Styles ----------- */
+
+html,
+body,
+#page  {
+  height: 100%;
+}
+#page-wrapper {
+  min-height: 100%;
+  min-width: 1000px;
+}
+#header{height:230px;}
+#header div.section,
+#featured div.section,
+#messages div.section,
+#main,
+#triptych,
+#footer-columns,
+#footer {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#header div.section {
+  position: relative;
+}
+.region-header {
+  float: right; /* LTR */
+  margin: 0 5px 10px;
+}
+.with-secondary-menu .region-header {
+  margin-top: 3em;
+}
+.without-secondary-menu .region-header {
+  margin-top: 15px;
+}
+#main-menu {
+  position: absolute;
+  top: 190px;
+  left: 0;
+  width: 1000px;
+}
+#secondary-menu {
+  position: absolute;
+  right: 0; /* LTR */
+  top: 0;
+  width: 480px;
+}
+#content,
+#sidebar-first,
+#sidebar-second,
+.region-triptych-first,
+.region-triptych-middle,
+.region-triptych-last,
+.region-footer-firstcolumn,
+.region-footer-secondcolumn,
+.region-footer-thirdcolumn,
+.region-footer-fourthcolumn {
+  display: inline;
+  float: left; /* LTR */
+  position: relative;
+}
+.one-sidebar #content {
+  width: 755px;
+}
+.two-sidebars #content {
+  width: 480px;
+}
+.no-sidebars #content {
+  width: 1000px;
+  float: none;
+}
+#sidebar-first,
+#sidebar-second {
+  width: 220px;
+}
+#main-wrapper {
+  min-height: 300px;
+  margin-top:0;
+}
+#content .section,
+.sidebar .section {
+  padding: 0 25px;
+}
+#sidebar-second .section{
+padding:0;
+margin:10px 0;
+}
+#breadcrumb {
+  margin: 0 0px;
+}
+.region-triptych-first,
+.region-triptych-middle,
+.region-triptych-last {
+  margin: 20px 20px 30px;
+  width: 280px;
+}
+#footer-wrapper {
+  border-top: #575757 4px solid;
+  padding: 35px 5px 30px;
+}
+.region-footer-firstcolumn,
+.region-footer-secondcolumn,
+.region-footer-thirdcolumn,
+.region-footer-fourthcolumn {
+  padding: 0 10px;
+  width: 220px;
+}
+#footer {
+  width: 1000px;
+  min-width: 1000px;
+}
